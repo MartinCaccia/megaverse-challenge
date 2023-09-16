@@ -11,6 +11,7 @@ My idea later is make the Nextjs frontend part too that consume the backend in N
   - [Config](#config)
   - [Install](#install)
   - [Start service](#start-service)
+  - [Curls](#curls)
 - [Documentation](#documentation)
 
 ## Stack
@@ -18,6 +19,7 @@ My idea later is make the Nextjs frontend part too that consume the backend in N
 - _Lenguaje:_ `Typescript <4.3.5>`
 - _Framework:_ `NestJS <9.0.0>`
 
+## Setup local
 ### Config
 
 Create the file `.env` base to the example `.env.example`.
